@@ -29,4 +29,4 @@ for i in range(len(cadena)):
         for k in range(k,j):
             print (9,end="") 
     if cod[i]==32:
-        print(0,end="")
+        print(end=" 0 ")
